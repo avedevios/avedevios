@@ -33,8 +33,6 @@ I build iOS apps and continuously improve my skills in mobile development.
   - Editable data
   - Persistent storage
 
-👉 *(Добавим сюда твои реальные проекты позже — это ключевая часть)*
-
 ---
 
 ## 📫 Contact Me
@@ -46,7 +44,7 @@ I build iOS apps and continuously improve my skills in mobile development.
 
 ## 🌐 Portfolio
 
-👉 https://avedevios.github.io *(добавишь когда сделаем сайт)*
+👉 https://avedevios.github.io
 
 ---
 
