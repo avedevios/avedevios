@@ -1,5 +1,53 @@
-- 👋 Hi, I’m @avedevios
-- 👀 I’m interested in swift
-- 🌱 I’m currently learning app interface
-- 💞️ I’m looking to collaborate on learning iOS developing
-- 📫 How to reach me - @gho5tw0lf in Telegram
+# 👋 Hi, I'm Anton
+
+### 📱 iOS Developer (Swift / UIKit)
+
+I build iOS apps and continuously improve my skills in mobile development.
+
+---
+
+## 🚀 About Me
+
+- 📍 Based in Canada (Winnipeg)
+- 💻 Focused on iOS development
+- 🧠 Currently improving UI/UX and app architecture
+- 🤝 Open to internships / junior iOS roles
+
+---
+
+## 🛠 Tech Stack
+
+- Swift
+- UIKit
+- Git / GitHub
+- Xcode
+
+---
+
+## 📂 Projects
+
+🔹 Add your best projects here (very important!)
+
+- 🧠 Memory Game (UIKit)
+  - Custom cards
+  - Editable data
+  - Persistent storage
+
+👉 *(Добавим сюда твои реальные проекты позже — это ключевая часть)*
+
+---
+
+## 📫 Contact Me
+
+- Telegram: https://t.me/gho5tw0lf
+- GitHub: https://github.com/avedevios
+
+---
+
+## 🌐 Portfolio
+
+👉 https://avedevios.github.io *(добавишь когда сделаем сайт)*
+
+---
+
+⭐️ Always learning, always building
