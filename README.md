@@ -78,7 +78,7 @@ Currently focused on iOS development — building production-ready apps with cle
 ## 📫 Contact Me
 
 - Telegram: https://t.me/gho5tw0lf
-- GitHub: https://github.com/avedevios
+- LinkedIn: https://www.linkedin.com/in/ake11a/
 
 ---
 
