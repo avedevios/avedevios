@@ -1,26 +1,31 @@
 # 👋 Hi, I'm Anton
 
-### 📱 iOS Developer (Swift / UIKit)
+### 📱 iOS Developer (Swift / UIKit / SwiftUI)
 
-I build iOS apps and continuously improve my skills in mobile development.
+Software engineer with a background across mobile, backend, and enterprise systems.
+Currently focused on iOS development — building production-ready apps with clean architecture and real-world usability.
 
 ---
 
 ## 🚀 About Me
 
 - 📍 Based in Canada (Winnipeg)
-- 💻 Focused on iOS development
-- 🧠 Currently improving UI/UX and app architecture
-- 🤝 Open to internships / junior iOS roles
+- 💻 iOS development at Digital Factory (2025 — Present)
+- 🔧 Delivered production iOS apps end-to-end: features, refactoring, CI/CD, App Store releases
+- 🧠 Background in enterprise systems, backend, and AI-driven projects
+- 🤝 Open to iOS developer roles (junior / mid)
 
 ---
 
 ## 🛠 Tech Stack
 
-- Swift
-- UIKit
-- Git / GitHub
-- Xcode
+- Swift, Objective-C
+- UIKit, SwiftUI
+- RealmSwift, Core Data
+- URLSession, REST APIs
+- SnapKit
+- Git / GitHub, CI/CD
+- Xcode, TestFlight, App Store Connect
 
 ---
 
@@ -45,6 +50,22 @@ I build iOS apps and continuously improve my skills in mobile development.
   - Custom cards
   - Editable data
   - Persistent storage
+
+---
+
+## 💼 Experience
+
+- iOS Developer — Digital Factory (2025 — Present)
+  - End-to-end iOS delivery: features, UI/UX, legacy Objective-C refactoring
+  - App Store Connect, TestFlight, production releases
+  - CI/CD pipelines, Git workflows, code reviews
+  - Ruby on Rails backend contributions, REST API integrations
+
+- Independent Software Engineer (2022 — Present)
+  - Native iOS MVP for a commercial client (product catalog, location-based dealer discovery)
+  - AI-powered chatbot for a corporate website (Python, NLP, REST APIs)
+  - ML solution for geospatial classification (NumPy, Pandas, scikit-learn)
+  - 300+ hours iOS training, 50+ hands-on projects
 
 ---
 
