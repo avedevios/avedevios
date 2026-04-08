@@ -28,6 +28,14 @@ I build iOS apps and continuously improve my skills in mobile development.
 
 🔹 Add your best projects here (very important!)
 
+- 🍺 [HopSpot](https://github.com/avedevios/HopSpot) — Beer catalogue app
+  - Browse, search and favourite beers
+  - Local cache with RealmSwift (instant load on launch)
+  - Paginated API via URLSession, no third-party networking
+  - MVC architecture with Dependency Injection
+  - 22 unit tests with Swift Testing framework
+  - Built with UIKit (programmatic layout + SnapKit)
+
 - 🧠 Memory Game (UIKit)
   - Custom cards
   - Editable data
