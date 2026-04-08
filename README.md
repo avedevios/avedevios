@@ -67,7 +67,7 @@ Currently focused on iOS development — building production-ready apps with cle
   - ML solution for geospatial classification (NumPy, Pandas, scikit-learn)
   - 300+ hours iOS training, 50+ hands-on projects
 
-- Enterprise Systems Developer (2011 — 2021)
+- Enterprise Systems Developer (2011 — 2022)
   - 10 years delivering ERP and business applications across finance, logistics, and operations
   - ERP migrations, custom modules, process automation, financial reporting (IFRS)
   - Complex SQL (MS SQL Server, PostgreSQL, Oracle), data integrity, incident response
