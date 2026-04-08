@@ -28,6 +28,13 @@ I build iOS apps and continuously improve my skills in mobile development.
 
 🔹 Add your best projects here (very important!)
 
+- 🧮 [calcuNator](https://github.com/avedevios/calcuNator) — iOS Calculator app
+  - Basic arithmetic + trigonometric functions (sin, cos, tan)
+  - SwiftUI with MVVM architecture
+  - Custom Objective-C framework integrated via bridging header
+  - Adaptive layout, haptic feedback, animated transitions
+  - 52 unit tests with Swift Testing framework
+
 - 🍺 [HopSpot](https://github.com/avedevios/HopSpot) — Beer catalogue app
   - Browse, search and favourite beers
   - Local cache with RealmSwift (instant load on launch)
