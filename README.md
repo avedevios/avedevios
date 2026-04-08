@@ -26,8 +26,6 @@ I build iOS apps and continuously improve my skills in mobile development.
 
 ## 📂 Projects
 
-🔹 Add your best projects here (very important!)
-
 - 🧮 [calcuNator](https://github.com/avedevios/calcuNator) — iOS Calculator app
   - Basic arithmetic + trigonometric functions (sin, cos, tan)
   - SwiftUI with MVVM architecture
