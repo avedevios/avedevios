@@ -38,14 +38,6 @@ Currently focused on iOS development — building production-ready apps with cle
   - Adaptive layout, haptic feedback, animated transitions
   - 52 unit tests with Swift Testing framework
 
-- 🍺 [HopSpot](https://github.com/avedevios/HopSpot) — Beer catalogue app
-  - Browse, search and favourite beers
-  - Local cache with RealmSwift (instant load on launch)
-  - Paginated API via URLSession, no third-party networking
-  - MVC architecture with Dependency Injection
-  - 22 unit tests with Swift Testing framework
-  - Built with UIKit (programmatic layout + SnapKit)
-
 - 🧠 [MemoPair](https://github.com/avedevios/MemoPair) — Memory card matching game for iPad
   - Flip cards and find matching pairs with move counter and timer
   - Parent Mode protected by Face ID / Touch ID (password in Keychain)
@@ -53,6 +45,14 @@ Currently focused on iOS development — building production-ready apps with cle
   - Confetti animation on win, sound feedback, flip animations
   - MVC with dedicated service layers (GameEngine, CardManager, AuthenticationManager)
   - Built as part of 100 Days of Swift (Hacking with Swift)
+
+- 🍺 [HopSpot](https://github.com/avedevios/HopSpot) — Beer catalogue app
+  - Browse, search and favourite beers
+  - Local cache with RealmSwift (instant load on launch)
+  - Paginated API via URLSession, no third-party networking
+  - MVC architecture with Dependency Injection
+  - 22 unit tests with Swift Testing framework
+  - Built with UIKit (programmatic layout + SnapKit)
 
 ---
 
