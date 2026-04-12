@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anton
 
-### � Software Developer (Mobile / Backend / Enterprise)
+### 💻 Software Developer (Mobile / Backend / Enterprise)
 
 Engineer with a background across mobile, backend, and enterprise systems.
 Currently building production-ready apps with clean architecture and real-world usability.
@@ -13,7 +13,6 @@ Currently building production-ready apps with clean architecture and real-world 
 - 💻 Software Developer at Digital Factory (2025 — Present)
 - 🔧 Delivered production software end-to-end: mobile apps, backend services, CI/CD, releases
 - 🧠 Background in enterprise systems, AI-driven projects, and 10+ years in business software
-- 🤝 Open to software developer roles (junior / mid)
 
 ---
 
